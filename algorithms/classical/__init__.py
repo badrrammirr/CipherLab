@@ -1,0 +1,3 @@
+"""
+Classical cryptography algorithms package
+"""
